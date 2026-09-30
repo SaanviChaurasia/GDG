@@ -1,0 +1,12 @@
+{
+  "name": "evently-srm-ap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Evently campus life prototype for SRM AP",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
