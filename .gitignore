@@ -1,0 +1,7 @@
+.env
+campus-data.json
+google-classroom-data.json
+assignment-submissions.json
+evently-applications.json
+node_modules/
+.npm-cache/
